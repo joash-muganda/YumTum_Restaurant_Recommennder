@@ -1,0 +1,8 @@
+google-cloud-aiplatform
+boto3
+requests
+setuptools
+grpcio==1.60.0
+
+
+
